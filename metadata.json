@@ -1,0 +1,6 @@
+{
+  "name": "ANB Plastik — Plastik Adına Her Şey",
+  "description": "ANB Plastik İç ve Dış Ticaret Limited Şirketi kurumsal web platformu. YYPE ve AYPE polietilen hammadde kataloğu, erime akış indeksi (MFI) seçici ve B2B teklif talebi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
